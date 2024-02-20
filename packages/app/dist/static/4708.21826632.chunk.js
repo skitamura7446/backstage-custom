@@ -1,0 +1,1 @@
+"use strict";(()=>{(self.webpackChunkapp=self.webpackChunkapp||[]).push([[4708],{24708:(l,M,E)=>{E.r(M),E.d(M,{GroupProfileCard:()=>_.BX,MembersListCard:()=>_.sq,MyGroupsSidebarItem:()=>_.k8,OwnershipCard:()=>_.IB,UserProfileCard:()=>_.Ju});var _=E(78190),s=E(14041),P=E(65398),C=E.n(P),O=E(50308),d=E.n(O),D=E(45810),B=E.n(D),a=E(45250),I=E.n(a)}}]);})();
